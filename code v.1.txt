@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>V-Mart | Business Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f4f4f4;
+        }
+        header {
+            background: #1a73e8;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background: #333;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 30px;
+            background: white;
+            margin: 20px;
+            border-radius: 5px;
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to V-Mart</h1>
+    <p>Your Trusted Business Partner</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+</nav>
+
+<section>
+    <h2>About V-Mart</h2>
+    <p>V-Mart is a growing business providing quality products and services to customers with trust and reliability.</p>
+</section>
+
+<section>
+    <h2>Our Services</h2>
+    <ul>
+        <li>Retail & Wholesale Products</li>
+        <li>Customer Support</li>
+        <li>Fast Delivery</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contact Us</h2>
+    <p>Email: info@vmart.com</p>
+    <p>Phone: +91-XXXXXXXXXX</p>
+</section>
+
+<footer>
+    <p>© 2026 V-Mart. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
